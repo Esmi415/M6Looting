@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b01mnp8qxfbh7"
-path="res://.godot/imported/small_circle.png-31b49cf3ffa7cd177449ceeb6a6f67c2.ctex"
+uid="uid://dpym64uaptlhb"
+path="res://.godot/imported/grass_tileset.png-25c450d974c58284090e7e5811a6d237.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://lessons/chest/assets/small_circle.png"
-dest_files=["res://.godot/imported/small_circle.png-31b49cf3ffa7cd177449ceeb6a6f67c2.ctex"]
+source_file="res://lessons/items/chest/assets/dungeon/grass_tileset.png"
+dest_files=["res://.godot/imported/grass_tileset.png-25c450d974c58284090e7e5811a6d237.ctex"]
 
 [params]
 

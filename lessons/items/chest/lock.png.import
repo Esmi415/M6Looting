@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cae527caaj50v"
-path="res://.godot/imported/shadow_map.png-7835602a009c6c128cc06aa021483174.ctex"
+uid="uid://bu2jin246nel5"
+path="res://.godot/imported/lock.png-868c531a6afb945cc150762d129d84eb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://lessons/chest/assets/dungeon/shadow_map.png"
-dest_files=["res://.godot/imported/shadow_map.png-7835602a009c6c128cc06aa021483174.ctex"]
+source_file="res://lessons/items/chest/lock.png"
+dest_files=["res://.godot/imported/lock.png-868c531a6afb945cc150762d129d84eb.ctex"]
 
 [params]
 

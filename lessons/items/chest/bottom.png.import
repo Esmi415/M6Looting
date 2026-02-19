@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d3unutq03pfot"
-path="res://.godot/imported/torch_body.png-c6fbc9bf9cb1795d22131f2db403ba36.ctex"
+uid="uid://c3hwsm5ugp8qw"
+path="res://.godot/imported/bottom.png-f97d71c7b969e622a56a6f38c979a71f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://lessons/chest/assets/torch/torch_body.png"
-dest_files=["res://.godot/imported/torch_body.png-c6fbc9bf9cb1795d22131f2db403ba36.ctex"]
+source_file="res://lessons/items/chest/bottom.png"
+dest_files=["res://.godot/imported/bottom.png-f97d71c7b969e622a56a6f38c979a71f.ctex"]
 
 [params]
 

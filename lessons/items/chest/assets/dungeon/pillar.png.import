@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ckly4bkwbhm34"
-path="res://.godot/imported/spark.png-a42d49b48b8e6c782e59101d3094ec2b.ctex"
+uid="uid://c1rgncfgjxefj"
+path="res://.godot/imported/pillar.png-6f973510170ce39b63aacd83f84b0adf.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://lessons/chest/assets/spark.png"
-dest_files=["res://.godot/imported/spark.png-a42d49b48b8e6c782e59101d3094ec2b.ctex"]
+source_file="res://lessons/items/chest/assets/dungeon/pillar.png"
+dest_files=["res://.godot/imported/pillar.png-6f973510170ce39b63aacd83f84b0adf.ctex"]
 
 [params]
 
